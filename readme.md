@@ -1,0 +1,1 @@
+Responsive Design Practice, a Scrimba project utilzing html, css, media queries for responsive design components. 
